@@ -51,7 +51,7 @@ const AdvancedOptions: FunctionComponent<AdvancedOptionsProps> = ({
             rules={{
               required: false,
             }}
-            helperText={`Example format: https://${gitProvider}.com/konstructio/gitops-template`}
+            helperText={`Example format: https://${gitProvider}.com/wethegamers/gitops-template`}
           />
           <ControlledTextField
             control={control}
