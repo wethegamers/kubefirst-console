@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/konstructio/console
+  repository: ghcr.io/wethegamers/kubefirst-console
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
